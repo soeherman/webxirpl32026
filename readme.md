@@ -1,4 +1,4 @@
-# Daftar Kelompok Kelas — XI RPL 2
+# Daftar Kelompok Kelas — XI RPL 3
 Repositori/dokumen ini berisi pembagian kelompok untuk kelas **[XI RPL 3]**,semester **[Ganjil] [2026/2027]**.
  
 - **Nama Guru:** Gatot Suherman
